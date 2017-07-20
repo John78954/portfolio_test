@@ -21,7 +21,7 @@ a{
 
 }
 
-@media only screen and (max-width: 768px)
+@media only screen and (min-width: 321px)
     #location {
         display: block;
       }
@@ -29,5 +29,7 @@ a{
 
 img {
   width: 20%;
+  border-raidus: 10px;
+
   }
 }
