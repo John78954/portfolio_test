@@ -21,11 +21,11 @@ a{
 
 }
 
-@media only screen and (min-width: 321px)
+@media only screen and (min-width: 321px){
     #location {
         display: block;
       }
-}
+
 
 img {
   width: 20%;
