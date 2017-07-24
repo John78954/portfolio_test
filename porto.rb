@@ -1,7 +1,7 @@
 require 'sinatra'
 
 get "/" do
-"My portfolio."
+File.open('public/portfolio.html').read
 end
 
 #Sinatra requires a "public folder".
