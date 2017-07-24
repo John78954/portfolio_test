@@ -5,6 +5,7 @@ body {
 
 img {
   width: 20%;
+  border-radius: 10px;
 }
 
 #location {
@@ -25,11 +26,3 @@ a{
     #location {
         display: block;
       }
-
-
-img {
-  width: 20%;
-  border-radius: 10px;
-
-  }
-}
