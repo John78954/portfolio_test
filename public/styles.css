@@ -8,9 +8,7 @@ img {
   border-radius: 10px;
 }
 
-#location {
-  display: none;
-}
+
 
 div p{
   width: 70%;
@@ -22,8 +20,3 @@ a{
   display: block;
 
 }
-
-@media only screen and (min-width: 321px){
-    #location {
-        display: block;
-      }
