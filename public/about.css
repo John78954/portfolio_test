@@ -3,6 +3,21 @@
   text-align: center;
 }
 
-body{
+a{
   background-color: white;
+  border: none;
+    color: teal;
+    padding: 0px 0px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+body{
+  text-align: center;
+  background-image: url("./images/Death_star.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  color: yellow;
 }

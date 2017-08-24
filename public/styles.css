@@ -2,7 +2,37 @@ header{
   color: white;
 }
 
+.mail{
+  background-color: white;
+  border: none;
+    color: white;
+    padding: 0px 0px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
 
+.twitter{
+  background-color: white;
+  border: none;
+    color: white;
+    padding: 0px 0px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.page_2{
+  background-color: white;
+  border: none;
+    color: white;
+    padding: 0px 0px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
 
 body {
   text-align: center;
@@ -30,6 +60,7 @@ div p{
 a{
   display: block;
   color: teal;
+  text-decoration: none;
 }
 
 @media only screen and (min-width: 321px){
