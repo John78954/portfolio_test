@@ -5,7 +5,7 @@ header{
 .mail{
   background-color: white;
   border: none;
-    color: white;
+    color: blue;
     padding: 0px 0px;
     text-decoration: none;
     display: inline-block;
@@ -15,7 +15,7 @@ header{
 .twitter{
   background-color: white;
   border: none;
-    color: white;
+    color: blue;
     padding: 0px 0px;
     text-align: center;
     text-decoration: none;
@@ -26,7 +26,7 @@ header{
 .page_2{
   background-color: white;
   border: none;
-    color: white;
+    color: blue;
     padding: 0px 0px;
     text-align: center;
     text-decoration: none;
