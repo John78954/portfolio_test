@@ -1,9 +1,12 @@
 body {
-  background-image: url("./images/Death_star.png");
   text-align: center;
 }
 
-img {
+.Death_star{
+  background-image: url("./images/Death_star.png");
+}
+
+.me {
   width: 20%;
   border-radius: 10px;
 }
