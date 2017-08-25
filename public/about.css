@@ -16,8 +16,17 @@ a{
 
 body{
   text-align: center;
+  color: yellow;
   background-image: url("./images/Death_star.png");
   background-size: 100%;
   background-repeat: no-repeat;
-  color: yellow;
+}
+
+.transbox{
+  margin: 30px;
+background-color: #ffffff;
+border: 1px solid black;
+opacity: 0.6;
+color: blue;
+  text-align: center;
 }
